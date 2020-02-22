@@ -22,13 +22,33 @@ flutter:
     - images/ozer.png
 
   fonts:
+    - family: AmaticSC
+      fonts:
+        - asset: fonts/AmaticSC-Regular.ttf
+
+    - family: CedarvilleCursive
+      fonts:
+        - asset: fonts/CedarvilleCursive-Regular.ttf
+
+    - family: LobsterTwo
+      fonts:
+        - asset: fonts/LobsterTwo-Regular.ttf
+
     - family: PatrickHandSC
       fonts:
         - asset: fonts/PatrickHandSC-Regular.ttf
 
-    - family: AmaticSC
+    - family: Satisfy
       fonts:
-        - asset: fonts/AmaticSC-Regular.ttf
+        - asset: fonts/Satisfy-Regular.ttf
+
+    - family: Tomorrow
+      fonts:
+        - asset: fonts/Tomorrow-Regular.ttf
+
+    - family: TradeWinds
+      fonts:
+        - asset: fonts/TradeWinds-Regular.ttf
 
     - family: ZhiMangXing
       fonts:
