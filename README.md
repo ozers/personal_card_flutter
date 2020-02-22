@@ -6,6 +6,7 @@ I used a lot of Widgets while developing it. I also use an "onTap()" method to a
 While doing this project, I learned a lot about the using of Widgets and the editing of the visuals thanks to the documentation and speeded myself.
 
 While I'm uploading the project to GitHub, sometimes I'm using Fork, terminal is also good option for that.
+I used master branch for developing my projects because of there is a small project.
 
 There is a demo below,
 
